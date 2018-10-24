@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.firstArt {
+  width: 50%;
+  border: 1px solid blue;
+}
+
+.secondArt {
+  width: 50%;
+  border: 1px solid red;
+}
